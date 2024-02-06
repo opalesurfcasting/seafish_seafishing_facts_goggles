@@ -2,3 +2,6 @@
 ! description: What my Goggle does
 ! public: false
 ! author: eldk
+
+$discard
+$site=www.opalesurfcasting.net,boost=2
