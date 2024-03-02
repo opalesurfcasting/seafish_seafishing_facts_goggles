@@ -25,3 +25,5 @@ Pour la modifier :
 ## Tester "seafish and seafishing facts" Goggle sur "Brave Search"
 
 [Ouvrir "seafish and seafishing facts" Goggle sur "Brave Search" dans mon navigateur web](https://search.brave.com/goggles?offset=0&spellcheck=0&goggles_id=https%3A%2F%2Fraw.githubusercontent.com%2Fopalesurfcasting%2Fgoggle%2Fmain%2Fopalesurfcastingnet.goggles)
+
+[Prendre connaissance des opérateurs de recherche de "Brave Search" (en anglais)](https://safesearch.brave.com/help/operators)
