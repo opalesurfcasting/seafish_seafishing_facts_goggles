@@ -1,3 +1,5 @@
+# Seafish and seafishing facts Goggle
+
 ## Que sont les "Brave Search Goggles" ?
 * [Généralités (en anglais)](https://search.brave.com/help/goggles)
 * [Quick-Start (en anglais)](https://github.com/brave/goggles-quickstart)
