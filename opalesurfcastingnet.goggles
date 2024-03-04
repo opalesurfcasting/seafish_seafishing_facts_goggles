@@ -19,3 +19,5 @@ $site=www.inaturalist.org
 $site=www.marlin.ac.uk
 /peche/$site=lemarin.ouest-france.fr
 /fishery/$site=www.fao.org
+! check auto update delay # see https://github.com/brave/goggles-quickstart/issues/5
+$site=eur-lex.europa.eu
