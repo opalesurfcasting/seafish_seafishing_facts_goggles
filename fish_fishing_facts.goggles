@@ -21,3 +21,5 @@ $site=www.marlin.ac.uk
 /fishery/$site=www.fao.org
 $site=eur-lex.europa.eu
 $site=www.gbif.org
+$site=www.xenophora.org
+$site=www.loeilduplongeur.com
