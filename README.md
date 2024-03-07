@@ -41,6 +41,8 @@ labrax_](https://search.brave.com/goggles?q=dicentrarchus+labrax&source=web&gogg
 _Glycymeris
 insubrica_](https://search.brave.com/goggles?q=glycymeris+insubrica&source=web&goggles_id=https%3A%2F%2Fraw.githubusercontent.com%2Fopalesurfcasting%2Fseafish_seafishing_facts_goggles%2Fmain%2Ffish_fishing_facts.goggles)
 
+[Ouvrir "seafish and seafishing facts" Goggles sur "Brave Search" dans mon navigateur web - recherche sur un terme en français ou en anglais - surpêche OR overfishing](https://search.brave.com/goggles?q=surp%C3%AAche+OR+overfishing&source=web&goggles_id=https%3A%2F%2Fraw.githubusercontent.com%2Fopalesurfcasting%2Fseafish_seafishing_facts_goggles%2Fmain%2Ffish_fishing_facts.goggles)
+
 [Ouvrir "seafish and seafishing facts" Goggles sur "Brave Search" dans mon navigateur web - recherche vierge (sans mot clef)](https://search.brave.com/goggles?offset=0&spellcheck=0&goggles_id=https%3A%2F%2Fraw.githubusercontent.com%2Fopalesurfcasting%2Fseafish_seafishing_facts_goggles%2Fmain%2Ffish_fishing_facts.goggles)
 
 [Prendre connaissance des opérateurs de recherche de "Brave Search" (en anglais)](https://safesearch.brave.com/help/operators)
