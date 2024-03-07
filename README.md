@@ -1,11 +1,11 @@
-# Seafish and seafishing facts Goggle
+# Seafish and seafishing facts Goggles
 
 ## Que sont les "Brave Search Goggles" ?
 
 * [Généralités (en anglais)](https://search.brave.com/help/goggles)
 * [Quick-Start (en anglais)](https://github.com/brave/goggles-quickstart)
 
-## Pourquoi créer un "Goggle" ?
+## Pourquoi créer un "Goggles" ?
 
 Si vous avez lu ce qui précède, vous avez sans doute compris qu'il s'agit de proposer le moyen de faire une recherche
 sur le thème de la pêche en mer, de ses habitants - les poissons, crustacés, pêcheurs ... - mais, sans avoir envie de
@@ -15,7 +15,7 @@ Il est en effet actuellement difficile de trouver des résultats factuels concer
 recherche classiques - sans en connaître le nom scientifique - et encore, la sauce hollandaise trouvera le moyen de se
 glisser dans les résultats (SERP) sous forme de pubs, ou de "news, stories" et autres publicités deguisées.
 
-## Quels sites sont référencés pour ce "Goggle" ?
+## Quels sites sont référencés pour ce "Goggles" ?
 
 [La liste est visible ici](https://github.com/opalesurfcasting/seafish_seafishing_facts_goggles/blob/main/fish_fishing_facts.goggles)
 
@@ -29,18 +29,18 @@ Pour la modifier :
 
 ## Tester "seafish and seafishing facts" Goggle sur "Brave Search"
 
-[Ouvrir "seafish and seafishing facts" Goggle sur "Brave Search" dans mon navigateur web - recherche sur nom scientifique - Sar commun -
+[Ouvrir "seafish and seafishing facts" Goggles sur "Brave Search" dans mon navigateur web - recherche sur nom scientifique - Sar commun -
 _Diplodus
 sargus_](https://search.brave.com/goggles?q=diplodus+sargus&source=web&goggles_id=https%3A%2F%2Fraw.githubusercontent.com%2Fopalesurfcasting%2Fseafish_seafishing_facts_goggles%2Fmain%2Ffish_fishing_facts.goggles)
 
-[Ouvrir "seafish and seafishing facts" Goggle sur "Brave Search" dans mon navigateur web - recherche sur nom scientifique - Bar commun -
+[Ouvrir "seafish and seafishing facts" Goggles sur "Brave Search" dans mon navigateur web - recherche sur nom scientifique - Bar commun -
 _Dicentrarchus
 labrax_](https://search.brave.com/goggles?q=dicentrarchus+labrax&source=web&goggles_id=https%3A%2F%2Fraw.githubusercontent.com%2Fopalesurfcasting%2Fseafish_seafishing_facts_goggles%2Fmain%2Ffish_fishing_facts.goggles)
 
-[Ouvrir "seafish and seafishing facts" Goggle sur "Brave Search" dans mon navigateur web - recherche sur nom scientifique - Amande rayonnée -
+[Ouvrir "seafish and seafishing facts" Goggles sur "Brave Search" dans mon navigateur web - recherche sur nom scientifique - Amande rayonnée -
 _Glycymeris
 insubrica_](https://search.brave.com/goggles?q=glycymeris+insubrica&source=web&goggles_id=https%3A%2F%2Fraw.githubusercontent.com%2Fopalesurfcasting%2Fseafish_seafishing_facts_goggles%2Fmain%2Ffish_fishing_facts.goggles)
 
-[Ouvrir "seafish and seafishing facts" Goggle sur "Brave Search" dans mon navigateur web - recherche vierge (sans mot clef)](https://search.brave.com/goggles?offset=0&spellcheck=0&goggles_id=https%3A%2F%2Fraw.githubusercontent.com%2Fopalesurfcasting%2Fseafish_seafishing_facts_goggles%2Fmain%2Ffish_fishing_facts.goggles)
+[Ouvrir "seafish and seafishing facts" Goggles sur "Brave Search" dans mon navigateur web - recherche vierge (sans mot clef)](https://search.brave.com/goggles?offset=0&spellcheck=0&goggles_id=https%3A%2F%2Fraw.githubusercontent.com%2Fopalesurfcasting%2Fseafish_seafishing_facts_goggles%2Fmain%2Ffish_fishing_facts.goggles)
 
 [Prendre connaissance des opérateurs de recherche de "Brave Search" (en anglais)](https://safesearch.brave.com/help/operators)
