@@ -27,7 +27,7 @@ Pour la modifier :
 2. Ensuite vous ferez une "pull request" avec vos modifications
 3. Votre proposition est examinée et intégrée si elle convient
 
-## Tester "seafish and seafishing facts" Goggle sur "Brave Search"
+## Tester "seafish and seafishing facts" Goggles sur "Brave Search"
 
 [Ouvrir "seafish and seafishing facts" Goggles sur "Brave Search" dans mon navigateur web - recherche sur nom scientifique - Sar commun -
 _Diplodus
