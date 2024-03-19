@@ -35,7 +35,7 @@ sargus_](https://search.brave.com/goggles?q=diplodus+sargus&source=web&goggles_i
 
 [Ouvrir "seafish and seafishing facts" Goggles sur "Brave Search" dans mon navigateur web - recherche sur nom scientifique - Sar commun Atlantique et Sar commun de Méditerranée -
 _Diplodus
-sargus, Diplodus cadenati_](https://search.brave.com/goggles?goggles_id=https%3A%2F%2Fraw.githubusercontent.com%2Fopalesurfcasting%2Fseafish_seafishing_facts_goggles%2Fmain%2Ffish_fishing_facts.goggles&q=diplodus%20sargus%20diplodus%20cadenati)
+sargus_,_Diplodus cadenati_](https://search.brave.com/goggles?goggles_id=https%3A%2F%2Fraw.githubusercontent.com%2Fopalesurfcasting%2Fseafish_seafishing_facts_goggles%2Fmain%2Ffish_fishing_facts.goggles&q=diplodus%20sargus%20diplodus%20cadenati)
 
 [Ouvrir "seafish and seafishing facts" Goggles sur "Brave Search" dans mon navigateur web - recherche sur nom scientifique - Bar commun -
 _Dicentrarchus
