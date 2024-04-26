@@ -20,6 +20,7 @@ $site=www.inaturalist.org
 $site=www.marlin.ac.uk
 /peche/$site=lemarin.ouest-france.fr
 /fishery/$site=www.fao.org
+$site=agris.fao.org
 $site=eur-lex.europa.eu
 $site=www.gbif.org
 $site=www.xenophora.org
