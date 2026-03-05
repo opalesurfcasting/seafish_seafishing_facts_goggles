@@ -52,6 +52,8 @@ insubrica_](https://search.brave.com/goggles?q=glycymeris+insubrica&source=web&g
 [Ouvrir "seafish and seafishing facts" Goggles sur "Brave Search" dans mon navigateur web - recherche bilingue (anglais/français + nom scientifique) - Durabilité du maquereau / Atlantic mackerel sustainability -
 _"mackerel" OR "maquereau" OR "Scomber scombrus"_ + vocabulaire gestion durable](https://search.brave.com/goggles?q=%28%22mackerel%22+OR+%22maquereau%22+OR+%22Scomber+scombrus%22%29+%28sustainability+OR+sustainable+OR+durabilit%C3%A9+OR+%22gestion+durable%22+OR+%22exploitation+durable%22+OR+MSY+OR+RMD+OR+TAC+OR+quota+OR+%22stock+assessment%22+OR+%22%C3%A9valuation+du+stock%22%29&goggles_id=https%3A%2F%2Fraw.githubusercontent.com%2Fopalesurfcasting%2Fseafish_seafishing_facts_goggles%2Fmain%2Ffish_fishing_facts.goggles)
 
+[Ouvrir "seafish and seafishing facts" Goggles sur "Brave Search" dans mon navigateur web - recherche bilingue (anglais/français + nom scientifique) - Aiguillat commun - Spurdog - Squalus acanthias](https://search.brave.com/goggles?q=%28%22aiguillat%22+OR+%22Spurdog%22%29+OR+%22squalus+acanthias%22&goggles_id=https%3A%2F%2Fraw.githubusercontent.com%2Fopalesurfcasting%2Fseafish_seafishing_facts_goggles%2Fmain%2Ffish_fishing_facts.goggles)
+
 [Ouvrir "seafish and seafishing facts" Goggles sur "Brave Search" dans mon navigateur web - recherche vierge (sans mot clef)](https://search.brave.com/goggles?offset=0&spellcheck=0&goggles_id=https%3A%2F%2Fraw.githubusercontent.com%2Fopalesurfcasting%2Fseafish_seafishing_facts_goggles%2Fmain%2Ffish_fishing_facts.goggles)
 
 [Prendre connaissance des opérateurs de recherche de "Brave Search" (en anglais)](https://safesearch.brave.com/help/operators)
