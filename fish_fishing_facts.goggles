@@ -42,3 +42,4 @@ $site=www.mcsuk.org
 /environment/$site=www.theguardian.com
 $site=assets.publishing.service.gov.uk
 /ices-taf/$site=github.com
+$site=asso-apecs.org
