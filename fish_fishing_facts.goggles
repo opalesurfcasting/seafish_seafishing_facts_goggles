@@ -44,3 +44,4 @@ $site=assets.publishing.service.gov.uk
 /ices-taf/$site=github.com
 $site=asso-apecs.org
 $site=www.conservationevidence.com
+$site=archimer.ifremer.fr
