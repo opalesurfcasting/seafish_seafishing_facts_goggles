@@ -27,33 +27,42 @@ Pour la modifier :
 2. Ensuite vous ferez une "pull request" avec vos modifications
 3. Votre proposition est examinée et intégrée si elle convient
 
-## Tester "seafish and seafishing facts" Goggles sur "Brave Search"
+## Tester le Goggle "seafish and seafishing facts" sur Brave Search
 
-[Ouvrir "seafish and seafishing facts" Goggles sur "Brave Search" dans mon navigateur web - recherche sur nom scientifique - Sar commun -
-_Diplodus
-sargus_](https://search.brave.com/goggles?q=diplodus+sargus&source=web&goggles_id=https%3A%2F%2Fraw.githubusercontent.com%2Fopalesurfcasting%2Fseafish_seafishing_facts_goggles%2Fmain%2Ffish_fishing_facts.goggles)
+### Recherches par espèce (nom scientifique)
 
-[Ouvrir "seafish and seafishing facts" Goggles sur "Brave Search" dans mon navigateur web - recherche sur nom scientifique - Sar commun Atlantique et Sar commun de Méditerranée -
-_Diplodus
-sargus_,_Diplodus cadenati_](https://search.brave.com/goggles?goggles_id=https%3A%2F%2Fraw.githubusercontent.com%2Fopalesurfcasting%2Fseafish_seafishing_facts_goggles%2Fmain%2Ffish_fishing_facts.goggles&q=diplodus%20sargus%20diplodus%20cadenati)
+- [Sar commun — _Diplodus sargus_ (avec le Goggle)](https://search.brave.com/goggles?q=diplodus+sargus&source=web&goggles_id=https%3A%2F%2Fraw.githubusercontent.com%2Fopalesurfcasting%2Fseafish_seafishing_facts_goggles%2Fmain%2Ffish_fishing_facts.goggles)
 
-[Ouvrir "seafish and seafishing facts" Goggles sur "Brave Search" dans mon navigateur web - recherche sur nom scientifique - Bar commun -
-_Dicentrarchus
-labrax_](https://search.brave.com/goggles?q=dicentrarchus+labrax&source=web&goggles_id=https%3A%2F%2Fraw.githubusercontent.com%2Fopalesurfcasting%2Fseafish_seafishing_facts_goggles%2Fmain%2Ffish_fishing_facts.goggles)
+- [Sar commun Atlantique et Sar commun de Méditerranée — _Diplodus sargus_, _Diplodus cadenati_ (avec le Goggle)](https://search.brave.com/goggles?goggles_id=https%3A%2F%2Fraw.githubusercontent.com%2Fopalesurfcasting%2Fseafish_seafishing_facts_goggles%2Fmain%2Ffish_fishing_facts.goggles&q=diplodus%20sargus%20diplodus%20cadenati)
 
-[Ouvrir "seafish and seafishing facts" Goggles sur "Brave Search" dans mon navigateur web - recherche sur nom scientifique - Amande rayonnée -
-_Glycymeris
-insubrica_](https://search.brave.com/goggles?q=glycymeris+insubrica&source=web&goggles_id=https%3A%2F%2Fraw.githubusercontent.com%2Fopalesurfcasting%2Fseafish_seafishing_facts_goggles%2Fmain%2Ffish_fishing_facts.goggles)
+- [Bar commun — _Dicentrarchus labrax_ (avec le Goggle)](https://search.brave.com/goggles?q=dicentrarchus+labrax&source=web&goggles_id=https%3A%2F%2Fraw.githubusercontent.com%2Fopalesurfcasting%2Fseafish_seafishing_facts_goggles%2Fmain%2Ffish_fishing_facts.goggles)
 
-[Ouvrir "seafish and seafishing facts" Goggles sur "Brave Search" dans mon navigateur web - recherche sur un terme en français ou en anglais - surpêche OR overfishing](https://search.brave.com/goggles?q=surp%C3%AAche+OR+overfishing&source=web&goggles_id=https%3A%2F%2Fraw.githubusercontent.com%2Fopalesurfcasting%2Fseafish_seafishing_facts_goggles%2Fmain%2Ffish_fishing_facts.goggles)
+- [Amande rayonnée — _Glycymeris insubrica_ (avec le Goggle)](https://search.brave.com/goggles?q=glycymeris+insubrica&source=web&goggles_id=https%3A%2F%2Fraw.githubusercontent.com%2Fopalesurfcasting%2Fseafish_seafishing_facts_goggles%2Fmain%2Ffish_fishing_facts.goggles)
 
-[Ouvrir "seafish and seafishing facts" Goggles sur "Brave Search" dans mon navigateur web - recherche sur le terme "criée"](https://search.brave.com/goggles?q=cri%C3%A9e&source=web&goggles_id=https%3A%2F%2Fraw.githubusercontent.com%2Fopalesurfcasting%2Fseafish_seafishing_facts_goggles%2Fmain%2Ffish_fishing_facts.goggles)
+---
 
-[Ouvrir "seafish and seafishing facts" Goggles sur "Brave Search" dans mon navigateur web - recherche bilingue (anglais/français + nom scientifique) - Durabilité du maquereau / Atlantic mackerel sustainability -
-_"mackerel" OR "maquereau" OR "Scomber scombrus"_ + vocabulaire gestion durable](https://search.brave.com/goggles?q=%28%22mackerel%22+OR+%22maquereau%22+OR+%22Scomber+scombrus%22%29+%28sustainability+OR+sustainable+OR+durabilit%C3%A9+OR+%22gestion+durable%22+OR+%22exploitation+durable%22+OR+MSY+OR+RMD+OR+TAC+OR+quota+OR+%22stock+assessment%22+OR+%22%C3%A9valuation+du+stock%22%29&goggles_id=https%3A%2F%2Fraw.githubusercontent.com%2Fopalesurfcasting%2Fseafish_seafishing_facts_goggles%2Fmain%2Ffish_fishing_facts.goggles)
+### Recherches sur la pêche et les ressources halieutiques
 
-[Ouvrir "seafish and seafishing facts" Goggles sur "Brave Search" dans mon navigateur web - recherche bilingue (anglais/français + nom scientifique) - Aiguillat commun - Spurdog - Squalus acanthias](https://search.brave.com/goggles?q=%28%22aiguillat%22+OR+%22Spurdog%22%29+OR+%22squalus+acanthias%22&goggles_id=https%3A%2F%2Fraw.githubusercontent.com%2Fopalesurfcasting%2Fseafish_seafishing_facts_goggles%2Fmain%2Ffish_fishing_facts.goggles)
+- [Surpêche / Overfishing (avec le Goggle)](https://search.brave.com/goggles?q=surp%C3%AAche+OR+overfishing&source=web&goggles_id=https%3A%2F%2Fraw.githubusercontent.com%2Fopalesurfcasting%2Fseafish_seafishing_facts_goggles%2Fmain%2Ffish_fishing_facts.goggles)
 
-[Ouvrir "seafish and seafishing facts" Goggles sur "Brave Search" dans mon navigateur web - recherche vierge (sans mot clef)](https://search.brave.com/goggles?offset=0&spellcheck=0&goggles_id=https%3A%2F%2Fraw.githubusercontent.com%2Fopalesurfcasting%2Fseafish_seafishing_facts_goggles%2Fmain%2Ffish_fishing_facts.goggles)
+- [Criée (marché aux poissons) (avec le Goggle)](https://search.brave.com/goggles?q=cri%C3%A9e&source=web&goggles_id=https%3A%2F%2Fraw.githubusercontent.com%2Fopalesurfcasting%2Fseafish_seafishing_facts_goggles%2Fmain%2Ffish_fishing_facts.goggles)
 
-[Prendre connaissance des opérateurs de recherche de "Brave Search" (en anglais)](https://safesearch.brave.com/help/operators)
+---
+
+### Recherches bilingues (anglais / français)
+
+- [Durabilité du maquereau / Atlantic mackerel sustainability — "mackerel" OR "maquereau" OR "Scomber scombrus" + vocabulaire gestion durable (avec le Goggle)](https://search.brave.com/goggles?q=%28%22mackerel%22+OR+%22maquereau%22+OR+%22Scomber+scombrus%22%29+%28sustainability+OR+sustainable+OR+durabilit%C3%A9+OR+%22gestion+durable%22+OR+%22exploitation+durable%22+OR+MSY+OR+RMD+OR+TAC+OR+quota+OR+%22stock+assessment%22+OR+%22%C3%A9valuation+du+stock%22%29&goggles_id=https%3A%2F%2Fraw.githubusercontent.com%2Fopalesurfcasting%2Fseafish_seafishing_facts_goggles%2Fmain%2Ffish_fishing_facts.goggles)
+
+- [Aiguillat commun / Spurdog — _Squalus acanthias_ (avec le Goggle)](https://search.brave.com/goggles?q=%28%22aiguillat%22+OR+%22Spurdog%22%29+OR+%22squalus+acanthias%22&goggles_id=https%3A%2F%2Fraw.githubusercontent.com%2Fopalesurfcasting%2Fseafish_seafishing_facts_goggles%2Fmain%2Ffish_fishing_facts.goggles)
+
+---
+
+### Exploration libre
+
+- [Recherche vierge (sans mot-clé) avec le Goggle](https://search.brave.com/goggles?offset=0&spellcheck=0&goggles_id=https%3A%2F%2Fraw.githubusercontent.com%2Fopalesurfcasting%2Fseafish_seafishing_facts_goggles%2Fmain%2Ffish_fishing_facts.goggles)
+
+---
+
+### Aide
+
+- [Opérateurs de recherche Brave Search](https://safesearch.brave.com/help/operators)
