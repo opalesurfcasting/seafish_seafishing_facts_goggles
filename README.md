@@ -1,5 +1,7 @@
 # Seafish and seafishing facts Goggles
 
+[![Use this Goggle](https://img.shields.io/badge/Brave_Search-Goggle-blue)](https://search.brave.com/goggles?goggles_id=https%3A%2F%2Fraw.githubusercontent.com%2Fopalesurfcasting%2Fseafish_seafishing_facts_goggles%2Fmain%2Ffish_fishing_facts.goggles)
+
 ## Que sont les "Brave Search Goggles" ?
 
 * [Généralités (en anglais)](https://search.brave.com/help/goggles)
